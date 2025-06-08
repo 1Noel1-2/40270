@@ -1,3 +1,6 @@
 [submodule "fei"]
 	path = fei
 	url = https://github.com/1Noel1-2/fei.git
+[submodule "ordinario-ftw"]
+	path = ordinario-ftw
+	url = https://github.com/1Noel1-2/ordinario-ftw.git
